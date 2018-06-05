@@ -1,0 +1,9 @@
+---  
+  - name: Fetch access and error log of httpd service
+    fetch:
+       src: /var/log/httpd/{{ item }}
+       dest: /opt/ansible-demo/monitoring-galaxy/log/ 
+       flat: yes 
+    with_items:
+           - "access_log"
+           - "error_log"

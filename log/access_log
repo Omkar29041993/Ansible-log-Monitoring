@@ -1,0 +1,7 @@
+192.241.218.203 - - [05/Jun/2018:10:31:45 +0000] "GET / HTTP/1.1" 403 3985 "-" "Mozilla/5.0 zgrab/0.x"
+196.52.43.66 - - [05/Jun/2018:11:10:20 +0000] "GET / HTTP/1.0" 403 3985 "-" "Mozilla/5.0(WindowsNT6.1;rv:31.0)Gecko/20100101Firefox/31.0"
+31.184.194.109 - - [05/Jun/2018:11:18:24 +0000] "GET / HTTP/1.0" 403 3985 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+92.63.238.180 - - [05/Jun/2018:13:41:08 +0000] "GET / HTTP/1.1" 403 3985 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"
+187.162.223.71 - - [05/Jun/2018:15:04:23 +0000] "GET /manager/html HTTP/1.1" 404 210 "-" "Mozilla/5.0 Gecko/20100101"
+91.233.204.66 - - [05/Jun/2018:15:47:27 +0000] "GET /wallet/.env HTTP/1.0" 404 209 "-" "-"
+54.161.31.175 - - [05/Jun/2018:16:39:55 +0000] "HEAD / HTTP/1.1" 403 - "-" "Cloud mapping experiment. Contact research@pdrlabs.net"

@@ -1,0 +1,46 @@
+[Tue Jun 05 09:02:41.175446 2018] [core:notice] [pid 3647] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Tue Jun 05 09:02:41.178030 2018] [suexec:notice] [pid 3647] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Tue Jun 05 09:02:41.188598 2018] [auth_digest:notice] [pid 3647] AH01757: generating secret for digest authentication ...
+[Tue Jun 05 09:02:41.189451 2018] [lbmethod_heartbeat:notice] [pid 3647] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 05 09:02:41.192224 2018] [mpm_prefork:notice] [pid 3647] AH00163: Apache/2.4.6 (Red Hat Enterprise Linux) configured -- resuming normal operations
+[Tue Jun 05 09:02:41.192243 2018] [core:notice] [pid 3647] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Jun 05 10:31:45.394376 2018] [autoindex:error] [pid 3651] [client 192.241.218.203:37614] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Jun 05 11:04:10.939634 2018] [mpm_prefork:notice] [pid 3647] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Jun 05 11:04:11.989096 2018] [core:notice] [pid 19186] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Tue Jun 05 11:04:11.989872 2018] [suexec:notice] [pid 19186] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Tue Jun 05 11:04:11.999892 2018] [auth_digest:notice] [pid 19186] AH01757: generating secret for digest authentication ...
+[Tue Jun 05 11:04:12.000588 2018] [lbmethod_heartbeat:notice] [pid 19186] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 05 11:04:12.002821 2018] [mpm_prefork:notice] [pid 19186] AH00163: Apache/2.4.6 (Red Hat Enterprise Linux) configured -- resuming normal operations
+[Tue Jun 05 11:04:12.002840 2018] [core:notice] [pid 19186] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Jun 05 11:10:20.511077 2018] [autoindex:error] [pid 19190] [client 196.52.43.66:6666] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Jun 05 11:18:24.007735 2018] [autoindex:error] [pid 19191] [client 31.184.194.109:62586] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Jun 05 12:15:31.903095 2018] [mpm_prefork:notice] [pid 19186] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Jun 05 13:39:38.339652 2018] [core:notice] [pid 757] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Tue Jun 05 13:39:38.343263 2018] [suexec:notice] [pid 757] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Tue Jun 05 13:39:38.381751 2018] [auth_digest:notice] [pid 757] AH01757: generating secret for digest authentication ...
+[Tue Jun 05 13:39:38.384536 2018] [lbmethod_heartbeat:notice] [pid 757] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 05 13:39:38.403293 2018] [mpm_prefork:notice] [pid 757] AH00163: Apache/2.4.6 (Red Hat Enterprise Linux) configured -- resuming normal operations
+[Tue Jun 05 13:39:38.403321 2018] [core:notice] [pid 757] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Jun 05 13:41:08.358118 2018] [autoindex:error] [pid 775] [client 92.63.238.180:46981] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Jun 05 16:39:55.503126 2018] [autoindex:error] [pid 777] [client 54.161.31.175:34336] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Jun 05 17:36:59.558601 2018] [mpm_prefork:notice] [pid 757] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Jun 05 17:37:00.608169 2018] [core:notice] [pid 2550] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Tue Jun 05 17:37:00.608937 2018] [suexec:notice] [pid 2550] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Tue Jun 05 17:37:00.619092 2018] [auth_digest:notice] [pid 2550] AH01757: generating secret for digest authentication ...
+[Tue Jun 05 17:37:00.619750 2018] [lbmethod_heartbeat:notice] [pid 2550] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 05 17:37:00.622214 2018] [mpm_prefork:notice] [pid 2550] AH00163: Apache/2.4.6 (Red Hat Enterprise Linux) configured -- resuming normal operations
+[Tue Jun 05 17:37:00.622237 2018] [core:notice] [pid 2550] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Jun 05 17:38:58.757116 2018] [mpm_prefork:notice] [pid 2550] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Jun 05 17:38:59.805217 2018] [core:notice] [pid 2904] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Tue Jun 05 17:38:59.805983 2018] [suexec:notice] [pid 2904] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Tue Jun 05 17:38:59.816001 2018] [auth_digest:notice] [pid 2904] AH01757: generating secret for digest authentication ...
+[Tue Jun 05 17:38:59.816635 2018] [lbmethod_heartbeat:notice] [pid 2904] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 05 17:38:59.819063 2018] [mpm_prefork:notice] [pid 2904] AH00163: Apache/2.4.6 (Red Hat Enterprise Linux) configured -- resuming normal operations
+[Tue Jun 05 17:38:59.819083 2018] [core:notice] [pid 2904] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Jun 05 17:50:32.227264 2018] [mpm_prefork:notice] [pid 2904] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Jun 05 17:50:33.275185 2018] [core:notice] [pid 3273] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Tue Jun 05 17:50:33.275922 2018] [suexec:notice] [pid 3273] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Tue Jun 05 17:50:33.285701 2018] [auth_digest:notice] [pid 3273] AH01757: generating secret for digest authentication ...
+[Tue Jun 05 17:50:33.286313 2018] [lbmethod_heartbeat:notice] [pid 3273] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 05 17:50:33.288826 2018] [mpm_prefork:notice] [pid 3273] AH00163: Apache/2.4.6 (Red Hat Enterprise Linux) configured -- resuming normal operations
+[Tue Jun 05 17:50:33.288846 2018] [core:notice] [pid 3273] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'

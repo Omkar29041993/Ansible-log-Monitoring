@@ -1,0 +1,7 @@
+---
+  - name: check upditme of the httpd process
+    shell: "ps -eo comm,etime,etimes,user | grep httpd"
+    register: shell_result
+  - name: display uptime
+    debug:
+       var: shell_result.stdout_lines

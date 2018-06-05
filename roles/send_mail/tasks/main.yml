@@ -1,0 +1,12 @@
+---
+  - name: Sending email
+    mail:
+      host: "smtp.google.com"
+      port: "587"
+      username: "username"
+      password: "password"
+      to: "omkar.tirodkar@gmail.com"
+      cc: "omkar.tirodkar@gmail.com"
+      subject: "test mail"
+      body: "test mail"
+      attach: "/opt/ansible-demo/monitoring-galaxy/log/"
