@@ -1,0 +1,10 @@
+This playbook contains four roles
+1. check_uptime- It will check and display uptime of the apache service
+2. copy_logfile- It will copy log file(access log and error log) from server to local machine at log folder
+3. restart_service- It will restart apache service
+4. send_mail- It will send email with attahcment of log files
+
+Procedure to run playbook-
+1. Clone git repository on your machine
+2. change node ip address and public key as per your machine names
+3. run command ansible-playbook site.yml
